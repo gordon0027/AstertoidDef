@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ffbcbdc6b43cf248b9380f0277ab593
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Munition/Missiles/EnemyMissiles/MissileTrackingPlayer_4.prefab
+  uploadId: 709265

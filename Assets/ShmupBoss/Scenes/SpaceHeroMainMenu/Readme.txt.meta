@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb2a4483683756848b6dcb4022f89e2b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scenes/SpaceHeroMainMenu/Readme.txt
+  uploadId: 709265

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa6d12026fe927348bc76d69dc48ceca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/UI/LevelUI.prefab
+  uploadId: 709265

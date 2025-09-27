@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4da273b17248e914288640032432c062
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Enumerations/Readme_Enumerations.txt
+  uploadId: 709265

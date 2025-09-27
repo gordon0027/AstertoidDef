@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66422d2870b4843408b5f51b58ffaa4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/Afterburner_03.anim
+  uploadId: 709265

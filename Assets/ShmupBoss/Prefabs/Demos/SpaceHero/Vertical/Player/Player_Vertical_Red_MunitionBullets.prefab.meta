@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2cb200cc8233712479b3ea6d70ea9cf9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Vertical/Player/Player_Vertical_Red_MunitionBullets.prefab
+  uploadId: 709265

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ff91d032609607479863a618d9f5a74
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/Underwater/Enemies/Waypoint2Missile.prefab
+  uploadId: 709265

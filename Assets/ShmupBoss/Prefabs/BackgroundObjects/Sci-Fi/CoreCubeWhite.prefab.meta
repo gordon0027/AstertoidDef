@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d80dce3642db4db428fbca0c0ae2f8af
+timeCreated: 1569496418
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Sci-Fi/CoreCubeWhite.prefab
+  uploadId: 709265

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1b31d867f53e1b34d855615ef8d5fcde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/Updates/BombUpdate/Waves/Curve1_InvertedL
+    1.asset
+  uploadId: 709265

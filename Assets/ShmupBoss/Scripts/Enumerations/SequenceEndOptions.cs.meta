@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 02a0aad8df37606449309f43c7b21f01
+timeCreated: 1580053207
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Enumerations/SequenceEndOptions.cs
+  uploadId: 709265

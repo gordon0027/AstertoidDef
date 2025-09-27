@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 645a9de5e8a6a1b41a4f78ffb6b6b71f
+timeCreated: 1544101974
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Sci-Fi/Core White.mat
+  uploadId: 709265

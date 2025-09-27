@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1550caf8dd05a5143b2fa799a4f99f1f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Movers/MagnetMover.cs
+  uploadId: 709265

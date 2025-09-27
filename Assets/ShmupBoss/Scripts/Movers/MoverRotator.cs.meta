@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 47fbfd382b038a7469d5ab42b02fbdfe
+timeCreated: 1581237888
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Movers/MoverRotator.cs
+  uploadId: 709265

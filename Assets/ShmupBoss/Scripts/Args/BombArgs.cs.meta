@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e5b3792183727a044b80b8f477dfa33c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Args/BombArgs.cs
+  uploadId: 709265

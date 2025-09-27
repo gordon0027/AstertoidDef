@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 079c37790e3e7554d88866ca88ffa66e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Horizontal/Waves/Simple_Upgrade.asset
+  uploadId: 709265

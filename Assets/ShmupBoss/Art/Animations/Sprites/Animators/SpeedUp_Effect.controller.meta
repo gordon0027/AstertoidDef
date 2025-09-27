@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70b2dec4fab2bdc40bd29f6021b6e422
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/SpeedUp_Effect.controller
+  uploadId: 709265

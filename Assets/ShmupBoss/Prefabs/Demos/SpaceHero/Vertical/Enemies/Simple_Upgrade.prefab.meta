@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33073ef6a8ed1354da77b7754eaa1517
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Vertical/Enemies/Simple_Upgrade.prefab
+  uploadId: 709265

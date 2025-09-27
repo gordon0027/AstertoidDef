@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9c1dd6091e743bb4ab9a7506b4cb59a9
+timeCreated: 1581848343
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Input/HoldButton.cs
+  uploadId: 709265

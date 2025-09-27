@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b0c40f2a338d6845a378c7120c4e992
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/VFX/Explosions/Explosion_14.prefab
+  uploadId: 709265

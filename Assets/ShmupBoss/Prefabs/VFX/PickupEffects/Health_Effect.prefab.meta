@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 46e483440ff42154b919da0ef62c0894
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/VFX/PickupEffects/Health_Effect.prefab
+  uploadId: 709265

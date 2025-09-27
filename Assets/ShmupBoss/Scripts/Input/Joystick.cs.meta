@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: bbb05e6f014b1b0468260cb4cc7e3eaa
+timeCreated: 1581595842
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Input/Joystick.cs
+  uploadId: 709265

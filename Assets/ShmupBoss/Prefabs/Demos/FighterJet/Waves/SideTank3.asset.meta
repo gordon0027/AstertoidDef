@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0aa50cb7dc5fd4b4183f37dbf6a64a1b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FighterJet/Waves/SideTank3.asset
+  uploadId: 709265

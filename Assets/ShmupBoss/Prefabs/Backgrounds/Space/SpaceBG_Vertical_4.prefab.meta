@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f460e0716a024ef49b2d6604264030ff
+timeCreated: 1580116827
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Backgrounds/Space/SpaceBG_Vertical_4.prefab
+  uploadId: 709265

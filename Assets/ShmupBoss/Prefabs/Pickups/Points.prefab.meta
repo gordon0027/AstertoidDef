@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 480f9f7ea6526154796c3370025553e9
+timeCreated: 1522676402
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Pickups/Points.prefab
+  uploadId: 709265

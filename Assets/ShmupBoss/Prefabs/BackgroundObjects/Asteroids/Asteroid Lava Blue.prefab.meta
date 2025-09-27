@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f603e71ddc270d54192200e95673e2a6
+timeCreated: 1568642981
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Asteroids/Asteroid Lava Blue.prefab
+  uploadId: 709265

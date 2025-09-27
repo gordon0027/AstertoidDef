@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb4042ab651459241bb780f3cbd704d6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Horizontal/Player/Player_Horizontal_Blue_MunitionMissiles.prefab
+  uploadId: 709265

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a8cdd1c2301c0e4b9ec0a4534d86c2c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Vertical/Enemies/Curve3_ZigZag.prefab
+  uploadId: 709265

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0987958a86b292447aa9970f1c0cb19a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Objects/VolumetricAC/VolumetricAC.cs
+  uploadId: 709265

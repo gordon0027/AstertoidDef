@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6708e802598fed4b96da165ff36373f
+timeCreated: 1543484100
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Sci-Fi/Debris_Dark.mat
+  uploadId: 709265

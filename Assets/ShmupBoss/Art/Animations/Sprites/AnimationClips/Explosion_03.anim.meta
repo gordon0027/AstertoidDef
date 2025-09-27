@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 443f76a0725a3e649aa39ac78f075310
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/Explosion_03.anim
+  uploadId: 709265

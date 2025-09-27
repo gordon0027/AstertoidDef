@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: baff9deb7b175f343954d62ca26026bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Backgrounds/Space/SpaceBG_Layer2_2.prefab
+  uploadId: 709265

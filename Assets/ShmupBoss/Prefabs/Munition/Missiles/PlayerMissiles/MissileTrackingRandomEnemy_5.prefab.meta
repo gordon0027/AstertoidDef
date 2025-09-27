@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bcb6fb27d0f04684eb2d533e928921f0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Munition/Missiles/PlayerMissiles/MissileTrackingRandomEnemy_5.prefab
+  uploadId: 709265

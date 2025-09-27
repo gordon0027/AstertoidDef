@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8613488cd35837341bee808d44114c2c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Resources/Audio/Mixers/MasterMixer.mixer
+  uploadId: 709265

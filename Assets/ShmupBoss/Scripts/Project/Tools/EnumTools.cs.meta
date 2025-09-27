@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7e164568170d3b7488f3ea7d27406783
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Project/Tools/EnumTools.cs
+  uploadId: 709265

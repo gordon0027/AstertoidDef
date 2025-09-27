@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 97b8e7946bddf5d4a881333d35255bca
+timeCreated: 1580048917
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Background/BackgroundObjectsSpawner.cs
+  uploadId: 709265

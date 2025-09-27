@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 12a440b43da245b4c93ffcc4e330a308
+timeCreated: 1569496424
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Sci-Fi/CorePolygonal.prefab
+  uploadId: 709265

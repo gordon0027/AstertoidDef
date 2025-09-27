@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a21bd663c97225c44b19fda62d1cb738
+timeCreated: 1522656661
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/BoxEffect_Yellow.controller
+  uploadId: 709265

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26ba32ccb52d23941a1834fc3d63a181
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FlyingTurtle/FX/Turtle_Hiding.prefab
+  uploadId: 709265

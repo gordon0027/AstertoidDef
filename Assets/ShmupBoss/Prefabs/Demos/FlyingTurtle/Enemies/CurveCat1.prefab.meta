@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5e73dff93a5a594f96505af2c5c9e3a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FlyingTurtle/Enemies/CurveCat1.prefab
+  uploadId: 709265

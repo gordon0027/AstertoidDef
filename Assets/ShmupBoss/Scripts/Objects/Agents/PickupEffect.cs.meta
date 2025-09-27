@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 64f5429b5f2f89a4d98ad38e33859aa8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Objects/Agents/PickupEffect.cs
+  uploadId: 709265

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 59e4d56bf5308eb479aee9fff7d998eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Args/MoverChangeArgs.cs
+  uploadId: 709265

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 778bee760bf0fc7469a61a4abf721d1a
+timeCreated: 1569494994
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Sci-Fi/SpaceObject2.prefab
+  uploadId: 709265

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 43fe4064636d48f419fff5fb1d2484eb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Documentation/Readme.txt
+  uploadId: 709265

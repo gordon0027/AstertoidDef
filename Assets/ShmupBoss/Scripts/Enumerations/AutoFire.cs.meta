@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3885c2bd0c8f57b488bde1b42bedd16b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Enumerations/AutoFire.cs
+  uploadId: 709265

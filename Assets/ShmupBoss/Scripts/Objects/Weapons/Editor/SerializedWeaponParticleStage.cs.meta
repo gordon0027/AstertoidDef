@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 448b5e2ad1d910a47a88e20a134d2dd8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Objects/Weapons/Editor/SerializedWeaponParticleStage.cs
+  uploadId: 709265

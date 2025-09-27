@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d94a1746a30b7224c8ba6954d6e1c2a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Enumerations/MainUIEvent.cs
+  uploadId: 709265

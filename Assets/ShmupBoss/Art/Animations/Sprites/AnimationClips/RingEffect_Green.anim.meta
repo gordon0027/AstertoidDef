@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03ad1255c3cafbe42a7140a7f23557e4
+timeCreated: 1522657069
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/RingEffect_Green.anim
+  uploadId: 709265

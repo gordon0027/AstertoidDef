@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f3cc518775c7020499c672606f49b330
+timeCreated: 1580999855
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Enumerations/RectSideRandom.cs
+  uploadId: 709265

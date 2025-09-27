@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31e4b0d9a73b0a047a009e047a7d6647
+timeCreated: 1522656276
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/BoxEffect_Blue.anim
+  uploadId: 709265

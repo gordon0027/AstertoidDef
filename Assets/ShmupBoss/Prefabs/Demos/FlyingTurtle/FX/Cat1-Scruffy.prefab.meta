@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 626e0c53f55bb744b8c699054179c7f2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FlyingTurtle/FX/Cat1-Scruffy.prefab
+  uploadId: 709265

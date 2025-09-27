@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9411e1dc726e83448b1f9a5f56876bc8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FighterJet/Enemies/Tank1.prefab
+  uploadId: 709265

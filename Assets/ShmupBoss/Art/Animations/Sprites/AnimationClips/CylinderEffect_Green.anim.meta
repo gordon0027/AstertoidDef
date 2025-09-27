@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1cc3a957b6d4efa43818070187a50927
+timeCreated: 1522656798
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/CylinderEffect_Green.anim
+  uploadId: 709265

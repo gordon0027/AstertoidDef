@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97b1ccadb30039a4ca80a31016e613de
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/VFX/Explosions/MissileExplosion_05.prefab
+  uploadId: 709265

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7da5bc0c05a551c41bafa6f05aff4007
+timeCreated: 1538896949
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Spaceships/NightAye Red.mat
+  uploadId: 709265

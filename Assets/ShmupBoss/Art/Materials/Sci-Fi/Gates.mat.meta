@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e58a7147d4d50b4fb57a90c20f2a167
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Sci-Fi/Gates.mat
+  uploadId: 709265

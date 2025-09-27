@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 157b300f159d6fd45872bf92fb59239c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/Afterburner_05.controller
+  uploadId: 709265

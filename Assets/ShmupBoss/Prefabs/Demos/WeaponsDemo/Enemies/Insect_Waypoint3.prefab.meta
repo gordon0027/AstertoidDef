@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75d751e3a3ff1394098c719993b9f549
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/WeaponsDemo/Enemies/Insect_Waypoint3.prefab
+  uploadId: 709265

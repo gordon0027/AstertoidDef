@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9511631f9cfa864478b707109728a76e
+timeCreated: 1538896949
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Spaceships/NightAye Silver.mat
+  uploadId: 709265

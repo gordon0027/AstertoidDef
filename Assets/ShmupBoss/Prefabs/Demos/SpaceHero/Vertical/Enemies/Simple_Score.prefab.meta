@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9b71e12f293e0a840b634e32550f1b87
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Vertical/Enemies/Simple_Score.prefab
+  uploadId: 709265

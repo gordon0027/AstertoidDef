@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ec7f433bca61df4aa0549c5cfe215ab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Objects/AnimationClips/Propeller.anim
+  uploadId: 709265

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e822e2ad17569d349b98e5a90e2a1eaf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/MainMenu/UI/LevelButton.cs
+  uploadId: 709265

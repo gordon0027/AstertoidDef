@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c8354d11be50f243bb81f0c0683a598
+timeCreated: 1522675862
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Pickups/Invincibility.prefab
+  uploadId: 709265

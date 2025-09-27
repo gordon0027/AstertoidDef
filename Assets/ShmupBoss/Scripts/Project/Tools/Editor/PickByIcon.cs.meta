@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3886f1e2d7dc52241bccea5fa52e693f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Project/Tools/Editor/PickByIcon.cs
+  uploadId: 709265

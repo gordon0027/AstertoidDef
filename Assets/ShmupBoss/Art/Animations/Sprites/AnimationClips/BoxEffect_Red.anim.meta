@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 797cc3a4dfe8a5f46890944f9291472e
+timeCreated: 1522656549
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/BoxEffect_Red.anim
+  uploadId: 709265

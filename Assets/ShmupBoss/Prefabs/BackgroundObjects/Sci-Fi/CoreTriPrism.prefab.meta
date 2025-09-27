@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b1fa4be4dfb5c8b4dbf3fee1ffc8f9a2
+timeCreated: 1569496421
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Sci-Fi/CoreTriPrism.prefab
+  uploadId: 709265

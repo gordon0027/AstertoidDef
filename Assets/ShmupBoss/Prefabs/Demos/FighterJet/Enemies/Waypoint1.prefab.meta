@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40ffda809777aed44b3a0428b7693397
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FighterJet/Enemies/Waypoint1.prefab
+  uploadId: 709265

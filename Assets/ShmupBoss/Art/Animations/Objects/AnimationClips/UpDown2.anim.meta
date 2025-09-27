@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6ecfe41695aca046838c648abfce3f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Objects/AnimationClips/UpDown2.anim
+  uploadId: 709265

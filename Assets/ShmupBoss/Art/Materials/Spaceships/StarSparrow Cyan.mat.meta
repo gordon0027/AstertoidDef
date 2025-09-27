@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d58bf68b17f9a4240aaeb5c200c9a12c
+timeCreated: 1538897631
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Spaceships/StarSparrow Cyan.mat
+  uploadId: 709265

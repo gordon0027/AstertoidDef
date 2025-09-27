@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f947f719b5288a742934c3a57f6db5b5
+timeCreated: 1569496418
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Sci-Fi/CoreCubeGrey.prefab
+  uploadId: 709265

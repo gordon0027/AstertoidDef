@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 693cdfa30c8dbd846806cc0d8cce2c66
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/MainMenu/Readme_MainMenu.txt
+  uploadId: 709265

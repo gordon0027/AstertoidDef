@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d83b609cbbf31a419d7d38b269e384c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/VFX/Afterburners/Afterburner_06.prefab
+  uploadId: 709265

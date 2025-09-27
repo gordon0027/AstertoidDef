@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0fcebe1285bc4a4a8651682454c73db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FighterJet/Enemies/Simple3.prefab
+  uploadId: 709265

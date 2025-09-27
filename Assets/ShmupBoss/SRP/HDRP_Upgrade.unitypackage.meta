@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e6d34bf3e18642c4bb4aa48d21d63bde
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/SRP/HDRP_Upgrade.unitypackage
+  uploadId: 709265

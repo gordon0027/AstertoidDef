@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d69e5aa836ca8d4481172dbd670846d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Trackers/Readme_Tracker.txt
+  uploadId: 709265

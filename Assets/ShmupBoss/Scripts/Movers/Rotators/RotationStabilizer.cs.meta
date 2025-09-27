@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 163c39af2e69b5c4d9e189a44fdaffd3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Movers/Rotators/RotationStabilizer.cs
+  uploadId: 709265

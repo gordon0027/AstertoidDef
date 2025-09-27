@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc87db79a25c41d40b3927f01e514046
+timeCreated: 1522676422
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Pickups/Heal.prefab
+  uploadId: 709265

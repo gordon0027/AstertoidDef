@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7c4cab68ef51164794d78e002331260
+timeCreated: 1539603744
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/AgentsVisuals/Spaceships/NightAye12.prefab
+  uploadId: 709265

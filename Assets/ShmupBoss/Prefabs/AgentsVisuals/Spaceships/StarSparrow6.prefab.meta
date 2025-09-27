@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33942a27e06a55e498652847d7d15f99
+timeCreated: 1539604824
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/AgentsVisuals/Spaceships/StarSparrow6.prefab
+  uploadId: 709265

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83b231b89a9d8be4698b5656b6be26a5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/Underwater/Enemies/Simple2.prefab
+  uploadId: 709265

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4daf12ff2c34aa341bcd65a34490e864
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Resources/Multiplier/MultiplierDataInfinite.asset
+  uploadId: 709265

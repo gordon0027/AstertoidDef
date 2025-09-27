@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ae0661975132de4986ca08543e2bc58
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/NeonBlaster/Waves/SideRandom.asset
+  uploadId: 709265

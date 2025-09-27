@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b7aab698d60bbb46bd9043acad3795a
+timeCreated: 1522656904
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/CylinderEffect_White.controller
+  uploadId: 709265

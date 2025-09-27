@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a5c66ed219d672c4589a8be541eb9b7b
+timeCreated: 1520954358
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Asteroids/AsteroidsLava_Blue.mat
+  uploadId: 709265

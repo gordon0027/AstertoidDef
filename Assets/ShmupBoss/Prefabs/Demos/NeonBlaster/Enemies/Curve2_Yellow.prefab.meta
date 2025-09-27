@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e8099ead455bba44abfa28252e49672
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/NeonBlaster/Enemies/Curve2_Yellow.prefab
+  uploadId: 709265

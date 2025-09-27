@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e7f91cf4cbcae34d89b1881d7c096d8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FighterJet/Waves/Curve2.asset
+  uploadId: 709265

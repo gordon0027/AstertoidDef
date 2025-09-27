@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 432286c7298a7f548855c788f681f8b5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FlyingTurtle/Waves/Side2.asset
+  uploadId: 709265

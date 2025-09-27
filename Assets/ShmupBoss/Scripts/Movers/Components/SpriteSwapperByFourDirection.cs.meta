@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: feb61013d838fd344b75501117d1b4a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Movers/Components/SpriteSwapperByFourDirection.cs
+  uploadId: 709265

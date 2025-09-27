@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75d430db1c00f004196f9307dedab39f
+timeCreated: 1543846587
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Sci-Fi/Debris_Violet.mat
+  uploadId: 709265

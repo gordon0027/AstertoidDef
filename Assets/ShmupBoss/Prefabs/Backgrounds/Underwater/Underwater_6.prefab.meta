@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08dbe5dd9d281c54884d99781a0da80c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Backgrounds/Underwater/Underwater_6.prefab
+  uploadId: 709265

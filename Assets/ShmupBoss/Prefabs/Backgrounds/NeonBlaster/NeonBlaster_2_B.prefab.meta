@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: baf21fce863b3a0489f8932b8c87324c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Backgrounds/NeonBlaster/NeonBlaster_2_B.prefab
+  uploadId: 709265

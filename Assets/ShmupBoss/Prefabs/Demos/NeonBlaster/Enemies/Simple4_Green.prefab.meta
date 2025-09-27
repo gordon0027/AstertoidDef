@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a475ff013c426524c8817a3ebc88074d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/NeonBlaster/Enemies/Simple4_Green.prefab
+  uploadId: 709265

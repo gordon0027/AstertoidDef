@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f19ac12d33c599646b882e75cc38ef4f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scenes/SpaceHeroMainMenu/MainMenu_StartHere.unity
+  uploadId: 709265

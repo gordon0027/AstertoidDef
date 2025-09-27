@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c332fd3e1aedc34f8132e012eb069cc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Horizontal/Player/Player_Horizontal_Yellow_Particles.prefab
+  uploadId: 709265

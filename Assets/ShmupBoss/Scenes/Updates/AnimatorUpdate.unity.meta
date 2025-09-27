@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81b51f07ff11fb447b3a461590659c98
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scenes/Updates/AnimatorUpdate.unity
+  uploadId: 709265

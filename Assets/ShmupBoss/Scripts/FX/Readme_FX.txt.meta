@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f262b9f65e331bb4e90caa8b51a1f542
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/FX/Readme_FX.txt
+  uploadId: 709265

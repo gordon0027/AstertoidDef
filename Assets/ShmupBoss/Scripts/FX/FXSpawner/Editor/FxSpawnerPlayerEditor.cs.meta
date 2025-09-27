@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b41364eadd9c46849b477c476a6523d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/FX/FXSpawner/Editor/FxSpawnerPlayerEditor.cs
+  uploadId: 709265

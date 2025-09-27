@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 02d3b6fbb24349748843802b34362b8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Weapons/Shooters/PlayerShooter.cs
+  uploadId: 709265

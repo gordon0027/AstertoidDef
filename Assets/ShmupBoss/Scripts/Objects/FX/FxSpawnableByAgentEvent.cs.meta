@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf847c998f871e941a12751964cae4ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Objects/FX/FxSpawnableByAgentEvent.cs
+  uploadId: 709265

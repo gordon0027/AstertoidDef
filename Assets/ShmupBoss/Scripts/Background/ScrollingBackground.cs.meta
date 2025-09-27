@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 22d8baaf32cacdc48b1b4afdefe0ace9
+timeCreated: 1580980848
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Background/ScrollingBackground.cs
+  uploadId: 709265

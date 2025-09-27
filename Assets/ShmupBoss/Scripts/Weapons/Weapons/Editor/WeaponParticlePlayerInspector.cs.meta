@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 374278ebafeaa544e8f68e7ff3fa3b9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Weapons/Weapons/Editor/WeaponParticlePlayerInspector.cs
+  uploadId: 709265

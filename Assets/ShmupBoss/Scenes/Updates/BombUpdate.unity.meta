@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d88e4af66742c8642a081e81f1a1f442
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scenes/Updates/BombUpdate.unity
+  uploadId: 709265

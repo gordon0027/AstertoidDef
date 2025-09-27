@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 901b80ca13299b34683edc7deda24388
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Vertical/Player/Player_Vertical_Yellow_Particles.prefab
+  uploadId: 709265

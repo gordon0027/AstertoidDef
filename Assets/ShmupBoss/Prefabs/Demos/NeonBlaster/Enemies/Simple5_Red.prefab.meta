@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65271df4fefd4b54db6eb012859404d7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/NeonBlaster/Enemies/Simple5_Red.prefab
+  uploadId: 709265

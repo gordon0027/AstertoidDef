@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 812c37ab335fc4346867a0145480e81b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Sprites/FlyingTurtle/Turtle_Hiding.prefab
+  uploadId: 709265

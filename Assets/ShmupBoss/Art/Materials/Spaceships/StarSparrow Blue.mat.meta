@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca28c97d23f98024fb31e22662eb58e7
+timeCreated: 1538897631
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Spaceships/StarSparrow Blue.mat
+  uploadId: 709265

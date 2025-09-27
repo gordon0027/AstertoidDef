@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dc660863adc2c8d428d89bd5c6b9abee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Args/PlayerSpawnArgs.cs
+  uploadId: 709265

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c9e4b0187b957d419814e672c9b194d
+timeCreated: 1522656610
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/BoxEffect_White.anim
+  uploadId: 709265

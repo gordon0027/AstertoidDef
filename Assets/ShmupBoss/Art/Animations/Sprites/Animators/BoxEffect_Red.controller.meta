@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfd6b6a8e265d95429cbabf82a65ab76
+timeCreated: 1522656549
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/BoxEffect_Red.controller
+  uploadId: 709265

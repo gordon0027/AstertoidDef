@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 41cb3bbe9f16bb5499abeab6c7960ad3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/Updates/AnimatorUpdate/Enemies/WaypointAnimVertiical.prefab
+  uploadId: 709265

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60db8c45aa08acd449a7a49854773ba2
+timeCreated: 1545041370
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Sci-Fi/Debris3.prefab
+  uploadId: 709265

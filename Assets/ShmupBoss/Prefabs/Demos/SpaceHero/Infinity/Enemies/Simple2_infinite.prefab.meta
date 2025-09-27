@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 89f3e5c40147224478328eba70aaf791
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Infinity/Enemies/Simple2_infinite.prefab
+  uploadId: 709265

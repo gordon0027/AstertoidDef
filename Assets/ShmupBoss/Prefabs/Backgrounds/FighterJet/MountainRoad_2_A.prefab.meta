@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6addc37e7dd9bee4c97d50b833c9be0e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Backgrounds/FighterJet/MountainRoad_2_A.prefab
+  uploadId: 709265

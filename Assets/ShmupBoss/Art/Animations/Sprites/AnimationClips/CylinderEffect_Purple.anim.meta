@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 412e53dd0a5366e43b84acc941e33ff8
+timeCreated: 1522669054
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/CylinderEffect_Purple.anim
+  uploadId: 709265

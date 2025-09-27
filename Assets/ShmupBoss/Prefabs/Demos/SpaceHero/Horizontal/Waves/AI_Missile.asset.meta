@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce444cd998a85c844bbbc27816599bd2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Horizontal/Waves/AI_Missile.asset
+  uploadId: 709265

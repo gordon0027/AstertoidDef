@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c22678d7aa562145804b6f0af7e603a
+timeCreated: 1544428941
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Planets/Tinniuq Planet.prefab
+  uploadId: 709265

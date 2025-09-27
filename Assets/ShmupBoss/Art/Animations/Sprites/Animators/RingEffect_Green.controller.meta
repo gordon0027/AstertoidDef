@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea06113655a899c41bba00552b5d5621
+timeCreated: 1522657069
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/RingEffect_Green.controller
+  uploadId: 709265

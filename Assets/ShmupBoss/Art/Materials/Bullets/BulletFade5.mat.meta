@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 867ef7cf3423dc947b5a0970894a787b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Bullets/BulletFade5.mat
+  uploadId: 709265

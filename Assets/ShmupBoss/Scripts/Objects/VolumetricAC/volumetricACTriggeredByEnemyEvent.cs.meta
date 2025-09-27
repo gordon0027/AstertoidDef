@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 61a82054f596c304db8f8e52a286fbfc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Objects/VolumetricAC/volumetricACTriggeredByEnemyEvent.cs
+  uploadId: 709265

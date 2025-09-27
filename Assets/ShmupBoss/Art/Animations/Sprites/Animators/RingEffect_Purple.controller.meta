@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd912466ca433294a99442f132608943
+timeCreated: 1522669178
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/RingEffect_Purple.controller
+  uploadId: 709265

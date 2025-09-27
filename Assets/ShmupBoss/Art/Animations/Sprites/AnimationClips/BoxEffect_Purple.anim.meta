@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 230a616326e937a40a04b271c0fea2ff
+timeCreated: 1522668919
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/BoxEffect_Purple.anim
+  uploadId: 709265

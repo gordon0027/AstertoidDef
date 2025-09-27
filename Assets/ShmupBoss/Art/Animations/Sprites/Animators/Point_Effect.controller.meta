@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3feb75c258767d840b0a22631f3cef7e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/Point_Effect.controller
+  uploadId: 709265

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 113af25c3f137d0438a4cef6ba5a3e9b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scenes/FighterJet/FighterJet.unity
+  uploadId: 709265

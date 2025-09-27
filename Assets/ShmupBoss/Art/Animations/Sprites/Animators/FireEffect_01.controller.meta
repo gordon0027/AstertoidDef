@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32ea3376850196a42aca177c7266fda8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/FireEffect_01.controller
+  uploadId: 709265

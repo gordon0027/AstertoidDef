@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4bf34b3320ca5f74189341f495a306ea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/Updates/AnimatorUpdate/Animations/Animators/AnimatorVertical.controller
+  uploadId: 709265

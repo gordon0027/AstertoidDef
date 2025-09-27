@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61dfc57e10e4cd040804e2e9c1da307a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FighterJet/Enemies/Boss.prefab
+  uploadId: 709265

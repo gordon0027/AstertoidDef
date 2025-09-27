@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b13c3d80a0c2ba346b02a2298419d7df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Bullets/BulletAdditive1.mat
+  uploadId: 709265

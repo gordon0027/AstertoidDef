@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0cc7c815b5a855f43b788acaa7ac3790
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Project/Tools/HelpBox.cs
+  uploadId: 709265

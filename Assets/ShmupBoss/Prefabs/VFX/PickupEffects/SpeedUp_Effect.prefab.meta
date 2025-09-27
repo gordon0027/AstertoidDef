@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c51d240b011e2d94cb50adcb05210edf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/VFX/PickupEffects/SpeedUp_Effect.prefab
+  uploadId: 709265

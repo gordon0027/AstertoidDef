@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91f26d06c5af88e48a7eff32d7dd2a88
+timeCreated: 1522656715
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/CylinderEffect_Blue.anim
+  uploadId: 709265

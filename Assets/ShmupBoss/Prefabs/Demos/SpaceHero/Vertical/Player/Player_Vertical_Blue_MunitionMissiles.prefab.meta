@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d46cbe252fb9d14448cc29a9ae240ad3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Vertical/Player/Player_Vertical_Blue_MunitionMissiles.prefab
+  uploadId: 709265

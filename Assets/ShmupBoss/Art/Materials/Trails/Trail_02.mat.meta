@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cba7e4ab5d1362d4b9db25982476768b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Trails/Trail_02.mat
+  uploadId: 709265

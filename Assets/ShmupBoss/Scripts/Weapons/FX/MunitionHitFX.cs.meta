@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ceb4216b856ddc443a39f44b7a6cf5af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Weapons/FX/MunitionHitFX.cs
+  uploadId: 709265

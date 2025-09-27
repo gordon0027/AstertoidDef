@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 758fb155841039141a7b3dcf49c08007
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Horizontal/Enemies/Waypoint3.prefab
+  uploadId: 709265

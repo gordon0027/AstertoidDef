@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adee0fad6b2d3d546a36e7bb55bf82b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/WeaponUpgrade_Effect.controller
+  uploadId: 709265

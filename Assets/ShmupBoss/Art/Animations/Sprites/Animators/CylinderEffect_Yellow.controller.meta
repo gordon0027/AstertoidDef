@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f1d4d66c1c235c49914ebd1384c2a37
+timeCreated: 1522656954
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/CylinderEffect_Yellow.controller
+  uploadId: 709265

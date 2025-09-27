@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b05dc867e7675542bb8d00a419f308b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/Explosion_11.controller
+  uploadId: 709265

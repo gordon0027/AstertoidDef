@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 90e8f0b271232654fa0819ffedc7ed75
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/VFX/WeaponFX/TakeDamage_04.prefab
+  uploadId: 709265

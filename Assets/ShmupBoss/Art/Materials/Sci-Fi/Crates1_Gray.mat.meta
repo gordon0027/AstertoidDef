@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e900d80555efa444b575c8ebdccf8cd
+timeCreated: 1543837646
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Sci-Fi/Crates1_Gray.mat
+  uploadId: 709265

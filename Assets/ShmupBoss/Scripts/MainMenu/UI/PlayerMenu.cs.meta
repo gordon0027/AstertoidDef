@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: acfa4d6576abd1842a8cc5a9a527c27b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/MainMenu/UI/PlayerMenu.cs
+  uploadId: 709265

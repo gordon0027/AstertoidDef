@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd408d757e916164982cb5642d503df8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scenes/FlyingTurtle/FlyingTurtle.unity
+  uploadId: 709265

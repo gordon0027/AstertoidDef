@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4de3e7e264e9c24e938ce342ea162d6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Horizontal/Enemies/Curve_Intro6.prefab
+  uploadId: 709265

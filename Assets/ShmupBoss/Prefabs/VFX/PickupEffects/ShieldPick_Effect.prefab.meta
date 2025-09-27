@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 15c259e9c83409148b4598ec998bb704
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/VFX/PickupEffects/ShieldPick_Effect.prefab
+  uploadId: 709265

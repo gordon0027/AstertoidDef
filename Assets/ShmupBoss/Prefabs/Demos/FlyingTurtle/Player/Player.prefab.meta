@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ecc3b013e163e404686dff0a7f3c9b3a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FlyingTurtle/Player/Player.prefab
+  uploadId: 709265

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7f7897ca5b01a234e893501afc83ed7c
+timeCreated: 1580223108
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Enumerations/FieldSource.cs
+  uploadId: 709265

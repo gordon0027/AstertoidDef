@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 337665ef1eaae444ebbe568b7ff9a9c8
+timeCreated: 1545041367
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Sci-Fi/Debris2.prefab
+  uploadId: 709265

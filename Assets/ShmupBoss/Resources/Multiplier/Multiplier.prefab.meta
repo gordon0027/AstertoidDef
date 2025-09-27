@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d98d4cf5c38930042b62f2e16cc6d9c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Resources/Multiplier/Multiplier.prefab
+  uploadId: 709265

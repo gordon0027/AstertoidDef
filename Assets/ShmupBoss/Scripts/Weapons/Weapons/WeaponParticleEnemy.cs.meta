@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f73d71c60309d5c4c80c82f1d4d7d643
+timeCreated: 1582549770
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Weapons/Weapons/WeaponParticleEnemy.cs
+  uploadId: 709265

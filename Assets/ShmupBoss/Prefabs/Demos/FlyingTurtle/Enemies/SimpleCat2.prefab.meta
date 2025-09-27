@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 78fec722d9cfae84f86887f2c9d11964
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FlyingTurtle/Enemies/SimpleCat2.prefab
+  uploadId: 709265

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 55e5bb2fd6ab0374a87b90a387ff6c63
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scenes/SpaceHeroMainMenu/Level_VerticalMain.unity
+  uploadId: 709265

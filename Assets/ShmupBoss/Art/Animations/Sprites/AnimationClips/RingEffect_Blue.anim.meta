@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65a8bc69781d3764e84f64ab0a7a8466
+timeCreated: 1522656997
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/RingEffect_Blue.anim
+  uploadId: 709265

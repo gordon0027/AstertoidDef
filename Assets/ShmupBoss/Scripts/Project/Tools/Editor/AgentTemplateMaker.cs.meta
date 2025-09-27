@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a814235d52221644ba1850098a2df27f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Project/Tools/Editor/AgentTemplateMaker.cs
+  uploadId: 709265

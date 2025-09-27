@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4543954e020293642925ea9f7047b804
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Background/Readme_Background.txt
+  uploadId: 709265

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b57f129d66c9cc84abfb28f1bffa80cd
+timeCreated: 1544101980
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Sci-Fi/Panels Black.mat
+  uploadId: 709265

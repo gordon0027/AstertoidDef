@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f9766e6ef46607d4a95fce751ef77a8d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scenes/WeaponsDemo/WeaponsDemo.unity
+  uploadId: 709265

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c213f7e0eb7388408990fbcfdbda548
+timeCreated: 1545041290
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Sci-Fi/StationDebris1.prefab
+  uploadId: 709265

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7cb16969a45d82c439307b55c3ffacf5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/NeonBlaster/Waves/Waypoint2Missile.asset
+  uploadId: 709265

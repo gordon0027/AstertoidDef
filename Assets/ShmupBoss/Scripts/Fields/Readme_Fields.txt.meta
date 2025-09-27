@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 059db6481c86ec843ae6948335a5d901
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Fields/Readme_Fields.txt
+  uploadId: 709265

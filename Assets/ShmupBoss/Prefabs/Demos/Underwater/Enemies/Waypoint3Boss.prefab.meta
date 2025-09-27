@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b5e1c9565e8cd44aaeb9ae031eb3a9c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/Underwater/Enemies/Waypoint3Boss.prefab
+  uploadId: 709265

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 163e428ac7a92a14983fb6d67cd65b88
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Clouds/Nebula_Blue_10.prefab
+  uploadId: 709265

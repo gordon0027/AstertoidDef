@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45f610289d409e6439a6f6f750f8c929
+timeCreated: 1538896949
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Spaceships/NightAye Blue.mat
+  uploadId: 709265

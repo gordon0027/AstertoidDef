@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36ca2c72b4fde0547bca86291530c946
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/VFX/GlowEffect/RingEffect_Red.prefab
+  uploadId: 709265

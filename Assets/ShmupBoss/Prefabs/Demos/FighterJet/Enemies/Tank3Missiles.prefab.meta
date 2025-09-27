@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8842c709f783ee744bbeed6316c092ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FighterJet/Enemies/Tank3Missiles.prefab
+  uploadId: 709265

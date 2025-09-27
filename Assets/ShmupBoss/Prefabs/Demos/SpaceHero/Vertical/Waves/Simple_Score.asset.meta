@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6baa592685d4e54098acfa188ec3886
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Vertical/Waves/Simple_Score.asset
+  uploadId: 709265

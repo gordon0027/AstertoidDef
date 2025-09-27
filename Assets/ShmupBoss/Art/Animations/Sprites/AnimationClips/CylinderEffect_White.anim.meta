@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 942c11c534f99094e8bed854fdb168fb
+timeCreated: 1522656904
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/CylinderEffect_White.anim
+  uploadId: 709265

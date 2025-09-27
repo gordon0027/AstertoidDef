@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b47332e3eaf7a454797452d56e493156
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scenes/Underwater/Underwater.unity
+  uploadId: 709265

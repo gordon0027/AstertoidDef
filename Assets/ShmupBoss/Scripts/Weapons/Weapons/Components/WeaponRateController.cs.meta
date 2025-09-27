@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f6cabc668bb6b6e47a04022f297f84be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Weapons/Weapons/Components/WeaponRateController.cs
+  uploadId: 709265

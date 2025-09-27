@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5fdcd2e1cb6d5d419e5c73c6cbd9fd4
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Waves/Readme_Waves.txt
+  uploadId: 709265

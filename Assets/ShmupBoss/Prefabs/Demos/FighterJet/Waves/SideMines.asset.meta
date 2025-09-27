@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7059893494b38814796302ee7fdaac8c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FighterJet/Waves/SideMines.asset
+  uploadId: 709265

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 886f596a9d96f3b4f8dc26c3ee4d9c3f
+timeCreated: 1582451271
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/FX/Sfx/Base/Sfx.cs
+  uploadId: 709265

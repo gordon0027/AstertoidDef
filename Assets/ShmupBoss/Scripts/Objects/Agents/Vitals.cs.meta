@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cae83e1a58d534c4f9e78ba6fa6b6e54
+timeCreated: 1581863380
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Objects/Agents/Vitals.cs
+  uploadId: 709265

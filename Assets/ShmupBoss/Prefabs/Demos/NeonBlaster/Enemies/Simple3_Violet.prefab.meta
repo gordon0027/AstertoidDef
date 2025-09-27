@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf662f67fe426f041a2a84238d815e11
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/NeonBlaster/Enemies/Simple3_Violet.prefab
+  uploadId: 709265

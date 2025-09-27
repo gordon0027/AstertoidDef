@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b934a93acf0b23c48a9ea97190d5bb9d
+timeCreated: 1538896949
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Materials/Spaceships/NightAye Tan.mat
+  uploadId: 709265

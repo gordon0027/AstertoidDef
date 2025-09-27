@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f7ebd6b4e90b854c9aba9a097a5f696
+timeCreated: 1522676413
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Pickups/Reboot.prefab
+  uploadId: 709265

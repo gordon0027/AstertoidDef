@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a52d8d2e01f4b747890078b204188d3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Clouds/Nebula_Purple_04.prefab
+  uploadId: 709265

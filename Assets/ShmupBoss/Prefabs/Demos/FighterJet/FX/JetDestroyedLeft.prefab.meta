@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 22b95020e87da554d9853ea80d0ccb50
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FighterJet/FX/JetDestroyedLeft.prefab
+  uploadId: 709265

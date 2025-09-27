@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9df2c9d4c201c95499487ecf5b1a8ccd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Movers/MagnetMoverSideSpawnable.cs
+  uploadId: 709265

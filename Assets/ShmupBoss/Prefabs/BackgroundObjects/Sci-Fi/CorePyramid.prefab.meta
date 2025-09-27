@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 876deaff0beca3e4da1d7aec295de2dc
+timeCreated: 1569496427
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Sci-Fi/CorePyramid.prefab
+  uploadId: 709265

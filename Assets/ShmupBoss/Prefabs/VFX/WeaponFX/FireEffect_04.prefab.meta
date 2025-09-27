@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 932c748ccb753514c88a309bcdde603b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/VFX/WeaponFX/FireEffect_04.prefab
+  uploadId: 709265

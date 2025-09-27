@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8733b229e5725ab4599586b683acd46e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Objects/Animators/Propeller.controller
+  uploadId: 709265

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41653ef84d14aef4f883823a26aa7d77
+timeCreated: 1522669178
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/RingEffect_Purple.anim
+  uploadId: 709265

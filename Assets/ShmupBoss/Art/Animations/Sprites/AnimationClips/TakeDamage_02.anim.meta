@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aef82fce1bddade429b54130850d296a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/AnimationClips/TakeDamage_02.anim
+  uploadId: 709265

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 932c5cee5f9fc24449ce1da6aaee8b62
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Vertical/Enemies/GateLeft.prefab
+  uploadId: 709265

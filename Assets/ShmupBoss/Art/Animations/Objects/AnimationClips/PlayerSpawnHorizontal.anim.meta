@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d00c51c8a1a18d4d8ca5b006bd06767
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Objects/AnimationClips/PlayerSpawnHorizontal.anim
+  uploadId: 709265

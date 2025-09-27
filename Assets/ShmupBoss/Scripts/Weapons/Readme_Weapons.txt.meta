@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d9f49aa88c34d7c479cd2d0a1a274abb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Weapons/Readme_Weapons.txt
+  uploadId: 709265

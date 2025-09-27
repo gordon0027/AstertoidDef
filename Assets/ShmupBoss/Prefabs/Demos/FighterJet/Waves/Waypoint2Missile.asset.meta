@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 354aae095ebaa3b45a81bc75a1115acb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/FighterJet/Waves/Waypoint2Missile.asset
+  uploadId: 709265

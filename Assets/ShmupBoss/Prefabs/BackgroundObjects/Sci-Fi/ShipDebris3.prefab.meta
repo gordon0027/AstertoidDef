@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc79b625963101b43b6271533c3ca425
+timeCreated: 1545038405
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Sci-Fi/ShipDebris3.prefab
+  uploadId: 709265

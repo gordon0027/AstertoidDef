@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0b2abd6d81180b4b9359bb77ef014ed
+timeCreated: 1522657162
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/RingEffect_White.controller
+  uploadId: 709265

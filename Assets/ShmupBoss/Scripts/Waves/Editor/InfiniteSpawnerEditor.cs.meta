@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 20112251d7c4e244b808c058c1ead30b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Scripts/Waves/Editor/InfiniteSpawnerEditor.cs
+  uploadId: 709265

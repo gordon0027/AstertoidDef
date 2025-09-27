@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7dedb32ab6c3f6b42a31dec86c69798b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/Updates/AnimatorUpdate/Player/PlayerAnimSideways.prefab
+  uploadId: 709265

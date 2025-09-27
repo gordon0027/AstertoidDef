@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30286b6fd8153954c86bd72c3ad01224
+timeCreated: 1522656851
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Art/Animations/Sprites/Animators/CylinderEffect_Red.controller
+  uploadId: 709265

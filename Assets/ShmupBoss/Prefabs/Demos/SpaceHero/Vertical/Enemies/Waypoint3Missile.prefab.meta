@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8481ab45c892efe41866086710e1cb76
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/SpaceHero/Vertical/Enemies/Waypoint3Missile.prefab
+  uploadId: 709265

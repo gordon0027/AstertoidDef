@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a56122785b42ea4f8c1ea15009e8802
+timeCreated: 1545037589
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/BackgroundObjects/Sci-Fi/Crate2.prefab
+  uploadId: 709265

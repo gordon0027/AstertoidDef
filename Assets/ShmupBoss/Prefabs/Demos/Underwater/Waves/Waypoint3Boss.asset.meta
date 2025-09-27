@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4215312287039474693b42fb510645f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Demos/Underwater/Waves/Waypoint3Boss.asset
+  uploadId: 709265

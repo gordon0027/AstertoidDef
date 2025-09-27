@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7e986688bd4efa4c92fd7730054ddf6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187012
+  packageName: Shmup Boss
+  packageVersion: 2.2.1
+  assetPath: Assets/ShmupBoss/Prefabs/Munition/Bullets/Bullet_11.prefab
+  uploadId: 709265
