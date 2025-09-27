@@ -16,16 +16,6 @@ A Web3 space shooter game built with Unity and integrated with **BNB Smart Chain
 ## Supported Networks
 - **BNB Smart Chain Mainnet** (Chain ID: 56)  
 
-## Configuration
-**RPC Settings**
-```json
-{
-  "mainnet": {
-    "rpc": "https://bsc-dataseed.binance.org/",
-    "chainId": 56
-  }
-}
-
 ---
 
 ## Contract Addresses
