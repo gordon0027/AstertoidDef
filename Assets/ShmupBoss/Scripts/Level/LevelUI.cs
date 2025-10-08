@@ -1,6 +1,7 @@
 ﻿using System;
 using UnityEngine;
 using UnityEngine.UI;
+using IDosGames;
 
 namespace ShmupBoss
 {
@@ -514,6 +515,8 @@ namespace ShmupBoss
             
             int currentPlayerScore = Level.Instance.CurrentScore;
             int currentCoins = CoinsAtStart + Level.Instance.CurrentCoins;
+
+            ClaimRewardSystem.ClaimCoinReward(currentPlayerScore, 1);
 
             GameManager.Instance.SaveLevelStats(currentPlayerScore, currentCoins, false);
 

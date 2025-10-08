@@ -8,9 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Game/Scenes/Login.unity
     guid: 801599ebf3fd74a468420cf1c6624ff5
-  - enabled: 0
-    path: Assets/_Game/Scenes/Main.unity
-    guid: 05bda804d8c467d43975b13d210ee056
+  - enabled: 1
+    path: Assets/IDosGamesSDK/Scenes/Main.unity
+    guid: 110f0a0730c7f6144acdf0d3ee5c081a
   - enabled: 1
     path: Assets/_Game/Scenes/SpaceHeroInfinity.unity
     guid: 39b3c687bd4ddde4cb6082983e266861
