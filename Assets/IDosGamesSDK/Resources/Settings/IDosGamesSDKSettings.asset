@@ -28,8 +28,8 @@ MonoBehaviour:
   _AndroidAccountDeletionEnabled: 0
   _pushNotificationsAndroidEnabled: 1
   _pushNotificationsIosEnabled: 1
-  _marketplaceEnabled: 1
+  _marketplaceEnabled: 0
   _cryptoWalletEnabled: 1
   _developerSecretKey: 2L0YDMIJKLDFPQJ88COX4DNY45ORJFWTHTWP1PJU2BEB8UOCU4
-  WebGLBuildPath: 
+  WebGLBuildPath: C:\Users\BG\Desktop\ASTD0810\Build
   ClearDirectory: 1
